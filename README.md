@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anjali875
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer science with spec. in data science
+- 👋 Hi, I’m Anjali!
+- 👀 Currently exploring coding, new tech skills, and programming languages.
+- 🌱 I’m currently studying Computer Science, specializing in Data Science.
 - 😄 Pronouns: she/her
 
 <!---
