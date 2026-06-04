@@ -1,3 +1,5 @@
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/52336be7-8c32-4c52-abf3-e7de186f2bac" />
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered projects, Python applications, and improving my development skills through hands-on projects.<br>👯 I’m looking to collaborate on beginner-friendly AI/ML, web development, and open-source projects.<br>🤝 I’m looking for help with machine Learning, backend development, and building scalable AI applications.<br>🌱 I’m currently learning Python, Data Structures & Algorithms in Java, HTML/CSS/JavaScript, AI and Machine Learning<br>
 
